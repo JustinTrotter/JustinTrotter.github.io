@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:97dc8391c84e62d0b19f19d3ae46c3eafca0ba9fd79039f7ac2ed20075a37949
-size 268
+{"componentChunkName":"component---cache-dev-404-page-js","path":"/dev-404-page/","result":{"data":{"allSitePage":{"nodes":[{"id":"SitePage /home/","path":"/home/"},{"id":"SitePage /","path":"/"},{"id":"SitePage /portfolio/","path":"/portfolio/"}]}},"pageContext":{}}}

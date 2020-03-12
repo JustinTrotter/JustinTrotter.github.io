@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4997cd023b74c49441c66c71eb87242e43b111feafe7ab3ff71ee890014c6490
-size 325
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{RXBc:function(e,n,t){"use strict";t.r(n);var a=t("q1tI"),c=t.n(a),u=t("gHPf");n.default=function(){return c.a.createElement("div",{className:"App"},c.a.createElement(u.default,null))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-fa063e5eaca40a31548f.js.map

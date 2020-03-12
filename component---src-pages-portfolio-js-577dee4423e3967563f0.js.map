@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b1ed6306db10138a4963e25e438ab2a77482619100b102aa4ce1b2752f04f295
-size 687
+{"version":3,"sources":["webpack:///./src/pages/portfolio.js"],"names":["Game","style","marginTop","color"],"mappings":"2FAAA,4CAeeA,UAZf,WAEE,OACE,oCACE,kBAAC,IAAD,MACA,yBAAKC,MAAO,CAAEC,UAAW,SACvB,wBAAID,MAAO,CAAEE,MAAO,UAApB,sBALS","file":"component---src-pages-portfolio-js-577dee4423e3967563f0.js","sourcesContent":["import React from \"react\"\nimport Navigation from \"../components/navigation\"\n\nfunction Game() {\n  const gameId = \"temp\"\n  return (\n    <>\n      <Navigation />\n      <div style={{ marginTop: \"50px\" }}>\n        <h3 style={{ color: \"white\" }}>Requested Game ID: {gameId}</h3>\n      </div>\n    </>\n  )\n}\n\nexport default Game\n"],"sourceRoot":""}

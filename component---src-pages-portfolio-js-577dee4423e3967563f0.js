@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2759b28a518856037ee710658306423e95e54f9fb1e9c19d9b6c4fcfd5fe2fd7
-size 446
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{E6xs:function(e,t,n){"use strict";n.r(t);var a=n("q1tI"),l=n.n(a),r=n("6cYQ");t.default=function(){return l.a.createElement(l.a.Fragment,null,l.a.createElement(r.a,null),l.a.createElement("div",{style:{marginTop:"50px"}},l.a.createElement("h3",{style:{color:"white"}},"Requested Game ID: ","temp")))}}}]);
+//# sourceMappingURL=component---src-pages-portfolio-js-577dee4423e3967563f0.js.map
