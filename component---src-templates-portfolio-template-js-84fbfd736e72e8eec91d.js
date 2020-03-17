@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{"I+nL":function(n,e,t){"use strict";t.r(e);t("f3/d");var o=t("q1tI"),a=t.n(o);e.default=function(n){var e=n.pageContext.portfolio;return a.a.createElement("section",null,e.name," - ",e.category)}}}]);
+//# sourceMappingURL=component---src-templates-portfolio-template-js-84fbfd736e72e8eec91d.js.map
