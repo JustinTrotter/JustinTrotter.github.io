@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{"I+nL":function(e,t,n){"use strict";n.r(t);var i=n("q1tI"),a=n.n(i);t.default=function(){return a.a.createElement("section",null,a.a.createElement("div",null,a.a.createElement("iframe",{title:"test",id:"unity-iframe",src:"../../unity/Runtime.html",width:"1280",height:"720"})))}}}]);
+//# sourceMappingURL=component---src-templates-portfolio-template-js-7f5e190435d703c6820e.js.map
