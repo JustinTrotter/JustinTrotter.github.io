@@ -1922,7 +1922,7 @@ async function __wbg_init(input) {
     if (wasm !== undefined) return wasm;
 
     if (typeof input === 'undefined') {
-        input = new URL('best_dino-c943aca9709c3471dbda3b655d26eb03d879e7db7cac6f83e06ac791906ad809ad98c5b6732e6e90e4e13b02f4cb58de_bg.wasm', import.meta.url);
+        input = new URL('best_dino-8692265d14f0169909e6c30957763802edaf4facceb08df6081f1e9a66bfa95b7a6553b41d6a8d604c14b71e879794c3_bg.wasm', import.meta.url);
     }
     const imports = __wbg_get_imports();
 
