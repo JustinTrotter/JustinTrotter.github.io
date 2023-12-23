@@ -1,6 +1,14 @@
-<html>
-  <head>
-     <canvas id="mygame-canvas" width="1280" height="720" style="border:1px solid #000000;">
+<html><head>
+
+<link rel="preload" href="/best_dino.wasm" as="fetch" type="application/wasm" crossorigin="anonymous" >
+<link rel="modulepreload" href="/best_dino.js" crossorigin="anonymous"></head><body><canvas id="mygame-canvas" width="1280" height="720" style="border:1px solid #000000;">
     </canvas>
-  </head>
-</html>
+
+
+
+<script type="module">
+import init, * as bindings from '/best_dino.js';
+init('/best_dino.wasm');
+window.wasmBindings = bindings;
+
+</script></body></html>
